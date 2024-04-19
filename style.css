@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    background-image: url("./budda.gif ");
+    width:100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-repeat:repeat-x;
+    position: absolute;
+    overflow-x: hidden;
+    overflow-y: hidden;
+ }
+
+ /* #fighter{
+    position: relative;
+    bottom: 3rem;
+    left: 2rem;
+
+
+ } */
+
+ #spidersense{
+   position: relative;
+   bottom: -8rem;
+   left: -1rem;
+ }
+
+ button{
+   padding: 1rem;
+   margin: 1rem;
+   background-color: chartreuse;
+   position: relative;
+   left: 228px;
+   top: -18px;
+
+ }
+
+ #guile{
+   position: relative;
+   right: -33rem;
+   bottom:-8rem ;
+ }
